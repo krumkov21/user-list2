@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Martin Krumkov",
+      "email": "martinkrumkov2004@gmail.com",
+      "phone": "0897253850",
+      "address": "Sofia, Bulgaria",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Alex Georgiev",
+      "email": "alex123@gmail.com",
+      "phone": "0897253851",
+      "address": "Plovdiv",
+      "role": "User"
+    }
+  ]
+}
